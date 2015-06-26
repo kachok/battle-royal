@@ -1,0 +1,22 @@
+{
+  "name": "battle-royale",
+  "version": "1.0.0",
+  "description": ":goberserk:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kachok/battle-royale.git"
+  },
+  "author": "Dmitry Kachaev <dmitry.kachaev@gmail.com> (http://github.com/kachok)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kachok/battle-royale/issues"
+  },
+  "homepage": "https://github.com/kachok/battle-royale#readme",
+  "dependencies": {
+    "express": "^4.13.0"
+  }
+}
