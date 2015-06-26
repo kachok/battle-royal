@@ -1,2 +1,2 @@
-# battle-royal
+# battle-royale
 :goberserk:
