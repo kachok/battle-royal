@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/kachok/battle-royale#readme",
   "dependencies": {
-    "express": "^4.13.0"
+    "express": "^4.13.0",
+    "mongodb": "^2.0.35"
   }
 }
