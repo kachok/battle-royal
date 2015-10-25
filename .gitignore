@@ -1,2 +1,8 @@
 
 node_modules
+
+*.pyc
+
+code/config.py
+
+ansible/ansible.log

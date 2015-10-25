@@ -1,0 +1,7 @@
+---
+  - copy: src=../code/speedtest.py dest=/home/pi/speedtest.py    
+
+  - copy: src=../code/run.py dest=/home/pi/run.py
+
+  - copy: src=../code/config.py dest=/home/pi/config.py  
+

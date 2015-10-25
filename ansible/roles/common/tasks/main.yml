@@ -1,0 +1,13 @@
+---
+  - name: install common packages
+    action: apt pkg={{item}} state=installed
+    with_items:
+    - wget
+    - nano
+    - python-setuptools
+
+  - command: easy_install pip
+
+  - command: pip install ubidots
+
+  - command: pip install speedtest-cli
